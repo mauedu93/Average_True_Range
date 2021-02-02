@@ -1,4 +1,4 @@
-# Average_True_Range
+# Average True Range
 
 The Average True Range is a historical volatility indicator taking the moving average of the True Range of an asset. The True Range is the difference between the high and low price of an asset during a given period.
 
